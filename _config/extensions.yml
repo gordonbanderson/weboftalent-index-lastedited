@@ -1,0 +1,12 @@
+---
+Name: last-edited-extensions
+---
+SiteTree:
+  extensions:
+    ['IndexLastEditedExtension']
+Member:
+  extensions:
+    ['IndexLastEditedExtension']
+Group:
+  extensions:
+    ['IndexLastEditedExtension']
