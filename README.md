@@ -9,4 +9,4 @@ Create or append to an existing extension.yml file in an appropriate _config dir
 		---
 		SiteTree:
 		  extensions:
-		    ['YourCustomDataObject']
+		    ['IndexLastEditedExtension']
