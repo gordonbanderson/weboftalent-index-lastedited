@@ -2,20 +2,18 @@
 	"name": "weboftalent/indexlastedited",
 	"description": "Ensure that the LastEdited field is indexed so that performance for partials is consistent with large sites",
 	"type": "silverstripe-module",
-	"keywords": ["silverstripe", "caching","partials", "performance","indexing","lastedited","weboftalent"],
-	"authors": [
-		{
-			"name": "Gordon Anderson",
-			"email": "gordon.b.anderson@gmail.com",
-			"homepage": "https://github.com/gordonbanderson/weboftalent-index-lastedited",
-			"role": "Developer"
-		}
-	],
-    "support": {
-        "issues": "https://github.com/gordonbanderson/weboftalent-index-lastedited/issues"
-    },
-	"require":
-	{
+	"keywords": ["silverstripe", "caching", "partials", "performance", "indexing", "lastedited", "weboftalent"],
+	"authors": [{
+		"name": "Gordon Anderson",
+		"email": "gordon.b.anderson@gmail.com",
+		"homepage": "https://github.com/gordonbanderson/weboftalent-index-lastedited",
+		"role": "Developer"
+	}],
+	"support": {
+		"issues": "https://github.com/gordonbanderson/weboftalent-index-lastedited/issues"
+	},
+	"require": {
 		"silverstripe/framework": "~3.1"
-	}
+	},
+	"license": "MIT"
 }
