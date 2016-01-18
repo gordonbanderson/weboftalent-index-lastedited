@@ -1,8 +1,7 @@
 # Change Log
 
-## [Unreleased](https://github.com/gordonbanderson/weboftalent-index-lastedited/tree/HEAD)
-
-[Full Changelog](https://github.com/gordonbanderson/weboftalent-index-lastedited/compare/1.0.0...HEAD)
+## [1.0.1](https://github.com/gordonbanderson/weboftalent-index-lastedited/tree/1.0.1) (2016-01-18)
+[Full Changelog](https://github.com/gordonbanderson/weboftalent-index-lastedited/compare/1.0.0...1.0.1)
 
 **Closed issues:**
 
